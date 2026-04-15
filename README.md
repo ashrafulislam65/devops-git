@@ -145,15 +145,15 @@ Add screenshots below:
 
 ## screenshots
 
-![DEV-git](images/DEV-git1)
-![DEV-git](images/DEV-git2)
-![DEV-git](images/DEV-git3)
-![DEV-git](images/DEV-git4)
-![DEV-git](images/DEV-git5)
-![DEV-git](images/DEV-git6)
-![DEV-git](images/DEV-git7)
-![DEV-git](images/DEV-git8)
-![DEV-git](images/DEV-git9)
+![DEV-git](images/DEV-git1.png)
+![DEV-git](images/DEV-git2.png)
+![DEV-git](images/DEV-git3.png)
+![DEV-git](images/DEV-git4.png)
+![DEV-git](images/DEV-git5.png)
+![DEV-git](images/DEV-git6.png)
+![DEV-git](images/DEV-git7.png)
+![DEV-git](images/DEV-git8.png)
+![DEV-git](images/DEV-git9.png)
 
 
 ---
